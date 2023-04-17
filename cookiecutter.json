@@ -1,0 +1,8 @@
+{
+    "name_with_underscores": "{{ cookiecutter.name_with_underscores | default('') | replace('-', '_') }}",
+    "name_with_hyphens": "{{ cookiecutter.name_with_underscores | replace('_', '-') }}",
+    "terraform_state_s3_bucket_name": "",
+    "domain_name": "",
+    "endpoint": "",
+    "bucket_name": ""
+}

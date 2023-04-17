@@ -1,0 +1,1 @@
+arn:aws:iam::023401488272:role/onekloud-ue1-vdigidev-gha-oidc-iam-role
